@@ -54,6 +54,7 @@ public class FXMLController {
     	txtInput.clear();
     	model.clear();
     	
+    	
    
     }
 
